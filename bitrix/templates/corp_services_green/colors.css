@@ -51,13 +51,13 @@ ul.left-menu .current b { background: #53BD1E; border-color:#D5EFC7;}
 #copyright { color: #5F5F5F; }
 
 /* Ask a question */
-#support-question { background: url(images/question.png) no-repeat; }
+#support-question { background: url(images/question_mark.png) no-repeat; }
 #support-text { background: #F2F2F2; }
 #support-text a { color: #484848 !important; }
 #support b { border-color: #FCFCFC; background: #F2F2F2; }
 
 /* Telephone*/
-#telephone  { color: #4C4C4C; background: url(images/phone.gif) no-repeat left center; }
+#telephone  { color: #4C4C4C; background: url(images/phone.png) no-repeat left center; }
 #schedule { color: #7F7F7F; }
 
 /* Information Box*/
