@@ -10,7 +10,7 @@ h2, h3, h4, h5, h6 { color:#414141; }
 hr, .hr { border-color: #E9E9E9;}
 
 /* Layout */
-body { background: #FFF url("images/texture.jpg"); color: #000;}
+body { background-color: #FFF; color: #000;}
 td#slogan { color: #999999; }
 
 #search div.search-box { border-color: #DEDEDE; }
@@ -46,18 +46,17 @@ ul.left-menu .current b { background: #53BD1E; border-color:#D5EFC7;}
 #banner-text { color: #FFF; background: url(images/overlay-right-corners.gif) no-repeat right top;}
 #banner-text a { color: #FFF;}
 #banner-overlay { background:  url(images/overlay.png) no-repeat; }
-
-#footer { background: #EDEDED; }
+#footer { background: #f3f2d1; }
 #copyright { color: #5F5F5F; }
 
 /* Ask a question */
-#support-question { background: url(images/question_mark.png) no-repeat; }
+#support-question { background: url(images/question.png) no-repeat; }
 #support-text { background: #F2F2F2; }
 #support-text a { color: #484848 !important; }
 #support b { border-color: #FCFCFC; background: #F2F2F2; }
 
 /* Telephone*/
-#telephone  { color: #4C4C4C; background: url(images/phone.png) no-repeat left center; }
+#telephone  { color: #4C4C4C; background: url(images/phone.gif) no-repeat left center; }
 #schedule { color: #7F7F7F; }
 
 /* Information Box*/
@@ -88,4 +87,4 @@ div.search-page input.search-query { background: #F8F7F7; border-color: #D9D9D9;
 
 /*Error & OK messages*/
 .errortext, .starrequired { color: red;}  
-.errortext, .notetext { background:#FFFEEB; border-color: #FFD482;} 
+.errortext, .notetext { background:#FFFEEB; border-color: #FFD482;}
