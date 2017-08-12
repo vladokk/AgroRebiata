@@ -10,7 +10,7 @@ h2, h3, h4, h5, h6 { color:#414141; }
 hr, .hr { border-color: #E9E9E9;}
 
 /* Layout */
-body { background-color: #FFF; color: #000;}
+body { background: #FFF url("/bitrix/templates/corp_services_green/images/texture.jpg"); color: #000;}
 td#slogan { color: #999999; }
 
 #search div.search-box { border-color: #DEDEDE; }
